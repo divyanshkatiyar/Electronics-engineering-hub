@@ -22,12 +22,12 @@ The massive **boom in global AI data centers** has created an **acute, severe sh
 
 > Here is the exact ranking from **highest risk of AI automation to lowest risk** _(decreasing order of risk)_ :-
 ```
-1. *CSE (Computer Science Engineering) — Highest Risk*
+1. CSE (Computer Science Engineering) — Highest Risk
 2. IT (Information Technology)
 3. ME (Mechanical Engineering)
 4. CIVIL (Civil Engineering)
 5. CHE (Chemical Engineering)
 6. EE (Electrical Engineering)
-7. *ECE (Electronics & Communication Engineering) — Lowest Risk*
+7. ECE (Electronics & Communication Engineering) — Lowest Risk
 ```
-> Reason: **Electronics Engineers build the physical brain and nervous system of AI itself**. _(ECE sits at the ultimate *sweet spot of hardware and software*)_. To keep up with AI software, the *world desperately needs physical hardware: microchips, semiconductor wafers, VLSI design, and advanced telecom hardware 5G/6G* AI CANNOT physically fabricate silicon, prototype boards in a lab, or solve physical quantum-level chip defects
+> Reason: **Electronics Engineers build the physical brain and nervous system of AI itself**. _(ECE sits at the ultimate *sweet spot of hardware and software*)_. To keep up with AI software, the *world desperately needs physical hardware: microchips, semiconductor wafers, VLSI design, and advanced telecom hardware 5G/6G*. **AI CANNOT physically fabricate** silicon, prototype boards in a lab, or solve physical quantum-level chip defects
