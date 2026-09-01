@@ -18,7 +18,7 @@ The massive **boom in global AI data centers** has created an **acute, severe sh
 > Learn to use AI-driven Electronic Design Automation (EDA) software to speed up layout and routing tasks.and **specialize in physical-heavy domains** like **VLSI design, battery management systems, or advanced robotics**.
 
 ## Impact of AI Automation :-
-**Electronics Engineering and*Electrical Engineering** are **most secure from AI automation.** _(While AI can quickly write and debug software code, it cannot interact with the physical world, build hardware prototypes, or easily troubleshoot unpredictable physical environments. Engineering branches that heavily blend complex physical hardware with safety-critical systems offer the highest job security.)_
+**Electronics Engineering and Electrical Engineering** are **most secure from AI automation.** _(While AI can quickly write and debug software code, it cannot interact with the physical world, build hardware prototypes, or easily troubleshoot unpredictable physical environments. Engineering branches that heavily blend complex physical hardware with safety-critical systems offer the highest job security.)_
 
 > Here is the exact ranking from **highest risk of AI automation to lowest risk** _(decreasing order of risk)_ :-
 ```
